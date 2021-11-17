@@ -1,1 +1,2 @@
-## Welcome to Passioned.me
+## Passioned.me
+[Privacy](https://passioned.me/privacy) | [Terms](https://passioned.me/terms)
